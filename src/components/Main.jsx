@@ -19,7 +19,7 @@ const Main = () => {
 					<p>ddgd ddhdd</p>
 
 					<button>
-						<img src={Mail} a lt='email' />
+						<img src={Mail} alt='email' />
 						email
 					</button>
 				</div>
