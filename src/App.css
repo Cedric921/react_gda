@@ -54,6 +54,13 @@ main {
 	padding: 10px;
 }
 
+.cart {
+	background-color: #23252c8e;
+	width: 550px;
+	margin: 0px auto;
+	padding: 44px 0;
+}
+
 footer {
 	background: #0d212e;
 	color: bisque;
